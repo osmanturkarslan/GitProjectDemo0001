@@ -6,5 +6,7 @@ public class FirstClass {
 		
 		
 		//osman local branch makes changes
+		//here is the conflicting line 
+		//i will conflict my remote master branch
 	}
 }
