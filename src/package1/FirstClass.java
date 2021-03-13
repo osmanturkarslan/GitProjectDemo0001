@@ -6,7 +6,11 @@ public class FirstClass {
 		
 		
 		//osman local branch makes changes
+
 		//here is the conflicting line 
 		//i will conflict my remote master branch
+
+		//Hey guys this is our remote master branch
+
 	}
 }
